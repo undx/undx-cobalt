@@ -62,7 +62,7 @@ hi VariableLang  guifg=#FF80E1
 hi FunctionCall  guifg=#FFEE80
 hi InheritedClass guifg=#80FCFF guibg=NONE gui=italic
 
-hi TrailingWhitespace guifg=#FFFFFF guibg=#071220 ctermfg=white ctermbg=red
+hi TrailingWhitespace guifg=#FFFFFF guibg=DarkRed ctermfg=white ctermbg=red
 
 hi rubyClass  guifg=#F6AA11 guibg=NONE gui=NONE
 hi rubyFunction  guifg=#ffdd00 guibg=NONE gui=NONE
