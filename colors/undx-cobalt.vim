@@ -8,7 +8,7 @@ endif
 let g:colors_name = "undx-Cobalt"
 
 hi Cursor       guifg=NONE    guibg=#ffffff gui=NONE
-hi Visual       guifg=NONE    guibg=#93664d gui=NONE
+hi Visual       guifg=NONE    guibg=#990000 gui=NONE
 hi CursorLine   guifg=NONE    guibg=#001e35 gui=NONE
 hi CursorColumn guifg=NONE    guibg=#071220 gui=NONE
 hi LineNr       guifg=#2C78F3 guibg=#30385b gui=NONE
